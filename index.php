@@ -1,3 +1,3 @@
 <?php
-echo "Hello from Jenkins - PHP Application!";
+echo "Hello from Jenkins - PHP Application! v2";
 ?>
